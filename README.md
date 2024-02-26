@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header] (https://github.com/igkrynkin/igkrynkin/blob/main/assets/igor.krynkin.jpg)] (https://github.com/igkrynkin)
 
 <!--
 

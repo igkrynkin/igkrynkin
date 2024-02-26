@@ -1,7 +1,6 @@
-[![Header] (https://github.com/igkrynkin/igkrynkin/blob/main/assets/igor.krynkin.png)] (https://github.com/igkrynkin)
+[![Header](./assets/igor.krynkin.png)](https://github.com/igkrynkin)
 
 <!--
-
 - 🔭 I’m currently working on improving javascript programming, as well as setting up network equipment, proxy servers, monitoring systems, etc.
 - 🌱 I’m currently learning programming languages, frameworks, in particular Javascript, React.
 - 👯 I’m looking to collaborate on frontend development.

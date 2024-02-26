@@ -1,4 +1,4 @@
-[![Header](./assets/igor.krynkin1.jpg)](https://krynkin.pro)
+[![Header](./assets/igor.krynkin1.jpg)](https://krynkin.pro){:target="_blank"}
 
 
 - 🔭 I’m currently working on improving javascript programming, as well as setting up network equipment, proxy servers, monitoring systems, etc.

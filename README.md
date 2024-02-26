@@ -1,4 +1,4 @@
-[![Header] (https://github.com/igkrynkin/igkrynkin/blob/main/assets/igor.krynkin.jpg)] (https://github.com/igkrynkin)
+[![Header] (https://github.com/igkrynkin/igkrynkin/blob/main/assets/igor.krynkin.png)] (https://github.com/igkrynkin)
 
 <!--
 

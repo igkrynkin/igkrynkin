@@ -49,6 +49,7 @@
 
 ### Network technologies:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![MikroTik](https://camo.githubusercontent.com/782a5f295da5f5679e0f88432ecffd12676996da3ac7e4a0d54d2a16b26feba1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d696b726f74696b26636f6c6f723d323933323339266c6f676f3d4d696b726f74696b266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Follow Me:
@@ -63,4 +64,3 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igkrynkin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igkrynkin)](https://github.com/anuraghazra/github-readme-stats)

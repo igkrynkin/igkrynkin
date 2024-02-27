@@ -1,6 +1,6 @@
 [![Header](./assets/igor.krynkin.1.png)](https://krynkin.pro)
 
-### Main languages and Tools:
+### 🛠 Main languages and Tools:
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -13,7 +13,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### About me:
+### :man_technologist: About me:
 
 I became interested in Frontend development back in 2010, and took a number of video courses on creating websites using HTML/CSS/JavaScript/jQuery/CMS Joomla, taught by the then famous Evgeniy Popov.
 In the same year, 2010, I created the first commercial website using HTML/CSS and uploaded it to hosting; later I made several more websites using the same technology, but with the request of customers to expand the functionality of the websites created by many, I realized that I did not have enough knowledge for this and This is why I entered the “Step” Computer Academy; during my studies, I also managed to create several commercial projects on CMS Joomla (information portal and online store).
@@ -94,7 +94,7 @@ Currently in the process of learning the depths of JavaScript and React.
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 -->
 
-### Follow Me:
+### 🤝 Follow Me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
 ![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.krynkin@gmail.com)

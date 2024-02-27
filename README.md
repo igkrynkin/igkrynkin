@@ -1,5 +1,18 @@
 [![Header](./assets/igor.krynkin.1.png)](https://krynkin.pro)
 
+### Main languages and Tools:
+![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://krynkin.pro)
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ### About me:
 
 I became interested in Frontend development back in 2010, and took a number of video courses on creating websites using HTML/CSS/JavaScript/jQuery/CMS Joomla, taught by the then famous Evgeniy Popov.
@@ -19,27 +32,12 @@ Layout the website, make it adaptive and cross-browser compatible;
 Currently in the process of learning the depths of JavaScript and React.
 
 
-<!--
 - 🔭 I’m currently working on improving javascript programming, as well as setting up network equipment, proxy servers, monitoring systems, etc.
 - 🌱 I’m currently learning programming languages, frameworks, in particular Javascript, React.
 - 👯 I’m looking to collaborate on frontend development.
 - 🤔 I’m looking for help with Javascript and React.
 - 💬 I can help with html, css layout, network equipment, Cisco, MikroTik
 - 📫 How to reach me: igor.krynkin@gmail.com
--->
-
-### Main languages and Tools:
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://krynkin.pro)
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 <!--
 ### Scripting languages:
@@ -84,10 +82,12 @@ Currently in the process of learning the depths of JavaScript and React.
 ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 -->
 
+<!--
 ### Network technologies:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![MikroTik](https://camo.githubusercontent.com/782a5f295da5f5679e0f88432ecffd12676996da3ac7e4a0d54d2a16b26feba1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d696b726f74696b26636f6c6f723d323933323339266c6f676f3d4d696b726f74696b266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+-->
 
 <!--
 ### Monitoring systems:

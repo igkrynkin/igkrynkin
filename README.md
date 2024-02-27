@@ -15,23 +15,6 @@
 
 ### :man_technologist: About me:
 
-I became interested in Frontend development back in 2010, and took a number of video courses on creating websites using HTML/CSS/JavaScript/jQuery/CMS Joomla, taught by the then famous Evgeniy Popov.
-In the same year, 2010, I created the first commercial website using HTML/CSS and uploaded it to hosting; later I made several more websites using the same technology, but with the request of customers to expand the functionality of the websites created by many, I realized that I did not have enough knowledge for this and This is why I entered the “Step” Computer Academy; during my studies, I also managed to create several commercial projects on CMS Joomla (information portal and online store).
-
-In 2013-2014, in a large company selling wallpaper and building materials, he worked as a Content Manager in CMS 1C-Bitrix + SEO and Photoshop
-In 2016, I created a commercial website using CMS WordPress + SEO + design + support
-In 2018, he created a commercial website using CMS OpenCart
-In 2020, I created a commercial website on WordPress + SEO + design
-
-Since all this time creating websites was more of a hobby of mine than a means of earning money, I simultaneously worked as a system administrator, a network engineer, and at the moment I am working as a system integration engineer, but the urge to create websites or applications has not gone away and that’s why I realized that it was mine. After a pause, I began to study current technologies for today, putting CMS aside and at the moment I can:
-
-Work with Flexbox and Grid;
-Understanding of the OOP programming paradigm;
-I work with the Git version control system;
-Layout the website, make it adaptive and cross-browser compatible;
-Currently in the process of learning the depths of JavaScript and React.
-
-
 - 🔭 I’m currently working on improving javascript programming, as well as setting up network equipment, proxy servers, monitoring systems, etc.
 - 🌱 I’m currently learning programming languages, frameworks, in particular Javascript, React.
 - 👯 I’m looking to collaborate on frontend development.

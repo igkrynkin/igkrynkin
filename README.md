@@ -9,6 +9,10 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://krynkin.pro)
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ### :man_technologist: About me:
 
 - 🔭 I’m currently working on improving javascript programming, as well as setting up network equipment, proxy servers, monitoring systems, etc.
@@ -18,14 +22,6 @@
 - 💬 I can help with html, css layout, network equipment, Cisco, MikroTik
 - 📫 How to reach me: igor.krynkin@gmail.com
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/igkrynkin/badges/large)
-
 ### 🤝 Follow Me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
 ![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)
@@ -34,6 +30,9 @@
 ![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/igkrynkin/badges/large)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igkrynkin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -17,6 +17,7 @@
 - 👯 I’m looking to collaborate on frontend development.
 - 🤔 I’m looking for help with Javascript and React.
 - 💬 I can help with html, css layout, network equipment, Cisco, MikroTik
+- 💻 My portfolio: www.krynkin.pro
 - 📫 How to reach me: igor.krynkin@gmail.com
 
 <p align="center">
@@ -26,7 +27,7 @@
 ---
 
 ### 🤝 Follow Me:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KrynkinIG)
 ![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.krynkin@gmail.com)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)

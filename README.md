@@ -1,5 +1,14 @@
 [![Header](./assets/igor.krynkin.1.png)](https://krynkin.pro)
 
+### :man_technologist: About me:
+
+- 🔭 I’m currently working on improving javascript programming, as well as setting up network equipment, proxy servers, monitoring systems, etc.
+- 🌱 I’m currently learning programming languages, frameworks, in particular Javascript, React.
+- 👯 I’m looking to collaborate on frontend development.
+- 🤔 I’m looking for help with Javascript and React.
+- 💬 I can help with html, css layout, network equipment, Cisco, MikroTik
+- 📫 How to reach me: igor.krynkin@gmail.com
+
 ### 🛠 Main languages and Tools:
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,15 +21,6 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-### :man_technologist: About me:
-
-- 🔭 I’m currently working on improving javascript programming, as well as setting up network equipment, proxy servers, monitoring systems, etc.
-- 🌱 I’m currently learning programming languages, frameworks, in particular Javascript, React.
-- 👯 I’m looking to collaborate on frontend development.
-- 🤔 I’m looking for help with Javascript and React.
-- 💬 I can help with html, css layout, network equipment, Cisco, MikroTik
-- 📫 How to reach me: igor.krynkin@gmail.com
 
 <!--
 ### Scripting languages:

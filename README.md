@@ -9,18 +9,20 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://krynkin.pro)
 
+### :man_technologist: About me:
+- 🔭 I’m currently working on improving javascript programming, as well as setting up network equipment, proxy servers, monitoring systems, etc.
+
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### :man_technologist: About me:
-
-- 🔭 I’m currently working on improving javascript programming, as well as setting up network equipment, proxy servers, monitoring systems, etc.
 - 🌱 I’m currently learning programming languages, frameworks, in particular Javascript, React.
 - 👯 I’m looking to collaborate on frontend development.
 - 🤔 I’m looking for help with Javascript and React.
 - 💬 I can help with html, css layout, network equipment, Cisco, MikroTik
 - 📫 How to reach me: igor.krynkin@gmail.com
+
+---
 
 ### 🤝 Follow Me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
@@ -30,6 +32,8 @@
 ![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+---
 
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/igkrynkin/badges/large)
